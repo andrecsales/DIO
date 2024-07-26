@@ -1,4 +1,4 @@
-# DIO - SageMaker Canvas
+# DIO - SageMaker Canvas AWS
 
 Objetivo: Conhecer a ferramente minimal code SageMaker Canvas da AWS para análise de dados e predições.
 
