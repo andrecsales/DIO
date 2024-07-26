@@ -1,6 +1,6 @@
 # DIO - SageMaker Canvas AWS
 
-Objetivo: Conhecer a ferramente minimal code SageMaker Canvas da AWS para análise de dados e predições.
+Objetivo: Conhecer a ferramenta minimal code SageMaker Canvas da AWS para análise de dados e predições.
 
 Problema: analisar um singelo conjunto de dados de um estoque e prever demanda.
 
