@@ -4,6 +4,8 @@ Objetivo: Conhecer a ferramente minimal code SageMaker Canvas da AWS para análi
 
 Problema: analisar um singelo conjunto de dados de um estoque e prever demanda.
 
+Datasets: digitalinnovationone/lab-aws-sagemaker-canvas-estoque
+
 Insights:
 - Preço do item é o que mais impacta na disponibilidade do estoque.
 - A promoção do item tem efeito nulo.
